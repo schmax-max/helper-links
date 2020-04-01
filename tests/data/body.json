@@ -1,0 +1,10 @@
+{
+  "url": "https://www.foreignaffairs.com",
+  "options": {
+    "beginning_identifier": "Most Read Articles",
+    "end_identifier": "",
+    "number_of_links": 5,
+    "link_includer": "/articles/",
+    "remove_short_links": true
+  }
+}
